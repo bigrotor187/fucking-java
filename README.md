@@ -1,6 +1,5 @@
 # ARTS
 ## ARTS是什么？
-</br>
 
 · Algorithm：每周至少做一个leetcode的算法题;
 · Review：阅读并点评至少一篇英文技术文章；
