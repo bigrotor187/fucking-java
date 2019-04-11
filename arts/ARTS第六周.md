@@ -1,4 +1,3 @@
-@[TOC]
 > ## ARTS是什么？
 > **Algorithm**：每周至少做一个leetcode的算法题；
 > **Review**：阅读并点评至少一篇英文技术文章；
@@ -159,6 +158,9 @@ Git 的命令和一些操作比较多，学习的过程中也用幕布笔记做�
 
 > 参考<br>
 > 1、[经济101管理方法](https://www.douban.com/group/topic/1371781/)（经济 101 方法）
+
 >2、[The Econ 101 Management Method](https://www.joelonsoftware.com/2006/08/09/the-econ-101-management-method/)（经济 101 方法）
+
 > 3、[The Identity Management Method](https://www.joelonsoftware.com/2006/08/10/the-identity-management-method/)(身份方法)
+
 > 4、[The Command and Control Management Method](https://www.joelonsoftware.com/2006/08/08/the-command-and-control-management-method/)（指挥与控制方法）
