@@ -15,26 +15,26 @@
 
 [ARTS第二周](https://github.com/bigrotor187/Awesome-Java-Notes/blob/master/arts/ARTS%E7%AC%AC%E4%BA%8C%E5%91%A8.md)
 
-## 趣谈Java
+### 趣谈Java
 
-# 数据结构与算法
+#### 数据结构与算法
 
-## LeetCode题解
+#### LeetCode题解
 
-## 剑指Offer题解（Java版）
+### 剑指Offer题解（Java版）
 
-# 框架
+### 框架
 
-# 设计模式
+### 设计模式
 
-# 面试相关
+### 面试相关
 
-# 数据库
+### 数据库
 
-# 经典书籍
+### 经典书籍
 
-# 博客推荐
+### 博客推荐
 
-# 工具
+### 工具
 
-# 联系作者
+### 联系我
