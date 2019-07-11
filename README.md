@@ -5,15 +5,14 @@
 ### ARTS
 #### ARTS是什么？
 
-- Algorithm：每周至少做一个leetcode的算法题；
-- Review：阅读并点评至少一篇英文技术文章；
-- Tip/Techni：学习至少一个技术技巧；
-- Share：分享一篇有观点和思考的技术文章。
+> Algorithm：每周至少做一个leetcode的算法题；<br>
+> Review：阅读并点评至少一篇英文技术文章；<br>
+> Tip/Techni：学习至少一个技术技巧；<br>
+> Share：分享一篇有观点和思考的技术文章。<br>
 
 
-[ARTS第一周](https://github.com/bigrotor187/Awesome-Java-Notes/blob/master/arts/ARTS%E7%AC%AC%E4%B8%80%E5%91%A8.md)
-
-[ARTS第二周](https://github.com/bigrotor187/Awesome-Java-Notes/blob/master/arts/ARTS%E7%AC%AC%E4%BA%8C%E5%91%A8.md)
+- [ARTS第一周](https://github.com/bigrotor187/Awesome-Java-Notes/blob/master/arts/ARTS%E7%AC%AC%E4%B8%80%E5%91%A8.md)
+- [ARTS第二周](https://github.com/bigrotor187/Awesome-Java-Notes/blob/master/arts/ARTS%E7%AC%AC%E4%BA%8C%E5%91%A8.md)
 
 ### 趣谈Java
 
