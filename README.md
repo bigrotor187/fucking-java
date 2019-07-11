@@ -34,6 +34,8 @@
 
 ### 博客推荐
 
+- [史上最全的 Java 高质量博客与网站推荐（国内篇）](https://github.com/bigrotor187/Awesome-Java-Notes/blob/master/Blogs/%E5%8F%B2%E4%B8%8A%E6%9C%80%E5%85%A8%E7%9A%84%20Java%20%E9%AB%98%E8%B4%A8%E9%87%8F%E5%8D%9A%E5%AE%A2%E4%B8%8E%E7%BD%91%E7%AB%99%E6%8E%A8%E8%8D%90%EF%BC%88%E5%9B%BD%E5%86%85%E7%AF%87%EF%BC%89.md)
+
 ### 工具
 
 ### 联系我
