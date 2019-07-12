@@ -19,6 +19,8 @@
 
 ### 趣谈Java
 
+- [趣谈Java之——与对象的初次约会](https://github.com/bigrotor187/Awesome-Java-Notes/blob/master/Java/%E8%B6%A3%E8%B0%88Java%E4%B9%8B%E2%80%94%E2%80%94%E4%B8%8E%E5%AF%B9%E8%B1%A1%E7%9A%84%E5%88%9D%E6%AC%A1%E7%BA%A6%E4%BC%9A.md)
+
 ### 数据结构与算法
 
 #### LeetCode题解
