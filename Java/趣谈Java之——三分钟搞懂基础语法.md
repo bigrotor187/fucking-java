@@ -164,8 +164,7 @@ Java 的数据类型主要分为两类：`基本数据类型`和`引用类型`�
 
 #### 2 字符型-char
 
-![在这里插入图片描述](https://img-blog.csdnimg.cn/20190701003505793.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L0JpZ19Sb3Rvcg==,size_16,color_FFFFFF,t_70)
-
+![在这里插入图片描述](https://github.com/bigrotor187/awesome-java-notes/blob/master/imgs/%E5%AD%97%E7%AC%A6%E5%9E%8B.png)
 
 
 <br>
@@ -180,7 +179,7 @@ Java 的数据类型主要分为两类：`基本数据类型`和`引用类型`�
 
 #### 4 浮点类型-float、double
 
-![在这里插入图片描述](https://img-blog.csdnimg.cn/20190701003523183.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L0JpZ19Sb3Rvcg==,size_16,color_FFFFFF,t_70)
+![在这里插入图片描述](https://github.com/bigrotor187/awesome-java-notes/blob/master/imgs/%E6%B5%AE%E7%82%B9%E5%9E%8B.png)
 
 
 
@@ -225,7 +224,7 @@ public class TestConvert {
 ## 五、运算符
 <br>
 
-![在这里插入图片描述](https://img-blog.csdnimg.cn/20190701003551954.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L0JpZ19Sb3Rvcg==,size_16,color_FFFFFF,t_70)
+![在这里插入图片描述](https://github.com/bigrotor187/awesome-java-notes/blob/master/imgs/%E8%BF%90%E7%AE%97%E7%AC%A6.png)
 
 
 
@@ -266,7 +265,9 @@ public class TestConvert {
 
 ### 5 条件运算符
 
-![在这里插入图片描述](https://img-blog.csdnimg.cn/20190701003735599.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L0JpZ19Sb3Rvcg==,size_16,color_FFFFFF,t_70)
+
+
+![在这里插入图片描述](https://github.com/bigrotor187/awesome-java-notes/blob/master/imgs/%E6%9D%A1%E4%BB%B6%E8%BF%90%E7%AE%97%E7%AC%A6.png)
 
 
 
@@ -278,7 +279,7 @@ public class TestConvert {
 <br>
 
 
-![在这里插入图片描述](https://img-blog.csdnimg.cn/2019070100384773.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L0JpZ19Sb3Rvcg==,size_16,color_FFFFFF,t_70)
+![在这里插入图片描述](https://github.com/bigrotor187/awesome-java-notes/blob/master/imgs/%E8%A1%A8%E8%BE%BE%E5%BC%8F.png)
 
 
 ### 结论
@@ -304,9 +305,8 @@ public class TestConvert {
 如果你按我说的去做，你会发现你只能回忆起一些内容，很难把全部的知识都记住。这是很正常的情况，所以需要温故而知新。最后，我把这篇文章的知识点整理成思维导图送给大家。
 
 
-![在这里插入图片描述](https://img-blog.csdnimg.cn/20190701003928695.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L0JpZ19Sb3Rvcg==,size_16,color_FFFFFF,t_70)
+![在这里插入图片描述](https://github.com/bigrotor187/awesome-java-notes/blob/master/imgs/%E5%9F%BA%E7%A1%80%E8%AF%AD%E6%B3%95%E5%AF%BC%E5%9B%BE.png)
 
-<br>
 
 **如果觉得文章还不错，请大家点赞分享给你的朋友，TA 可能正需要，你的肯定是对我最大的支持和鼓励。**
 
@@ -327,5 +327,3 @@ public class TestConvert {
 
 [全网最全的编程学习资源，PDF 电子书大合集](https://blog.csdn.net/Big_Rotor/article/details/91352247)
 
-
-欢迎关注我的公众号「**蜗牛永动机**」，回复 **1024** 免费获取 5G 编程学习资源~
