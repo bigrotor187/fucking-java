@@ -50,6 +50,55 @@
 
 ### LeetCode题解
 
+#### 面试精选算法题
+
+以下我会分门别类地列出面试中高频出现的 100 道算法题，这 100 道题会单独放在表格中。其他的一些经典的题目也会尽量去实现，分门别类放在对应的类目下面，独立于表格之外。
+
+> **数组 - Array**
+
+
+
+> **链表 - LinkedList**
+
+| 题号 | 难度 | 题目                                                                                         | 题解 | 是否完成 |
+|:------:|:------:|:----------------------------------------------------------------------------------------------:|:------:|:--------:|
+| 21   | 简单 | [合并两个有序链表](https://leetcode-cn.com/problems/merge-two-sorted-lists)                  |      |    ❎    |
+| 141  | 简单 | [环形链表 ](https://leetcode-cn.com/problems/linked-list-cycle)                              |      |    ❎    |
+| 160  | 简单 | [相交链表](https://leetcode-cn.com/problems/intersection-of-two-linked-lists)                |      |    ❎    |
+| 206  | 简单 | [反转链表 ](https://leetcode-cn.com/problems/reverse-linked-list)                            |      |    ❎    |
+| 234  | 简单 | [回文链表](https://leetcode-cn.com/problems/palindrome-linked-list)                          |      |    ❎    |
+| 2    | 中等 | [两数相加 ](https://leetcode-cn.com/problems/add-two-numbers)                                |      |    ❎    |
+| 19   | 中等 | [删除链表的倒数第N个节点](https://leetcode-cn.com/problems/remove-nth-node-from-end-of-list) |      |    ❎    |
+| 142  | 中等 | [	环形链表 II](https://leetcode-cn.com/problems/linked-list-cycle-ii)                        |      |    ❎    |
+| 148  | 中等 | [排序链表 ](https://leetcode-cn.com/problems/sort-list)                                      |      |    ❎    |
+| 23   | 困难 | [	合并K个排序链表](https://leetcode-cn.com/problems/merge-k-sorted-lists)                    |      |    ❎    |
+
+
+
+> **栈 - Stack**
+
+| 题号 | 难度 | 题目                                                                                  | 题解 | 是否完成 |
+|:------:|:------:|:----------------------------------------------------------------------------------------------:|:------:|:--------:|
+| 20   | 简单 | [有效的括号](https://leetcode-cn.com/problems/valid-parentheses)                      |      |    ❎    |
+| 155  | 简单 | [最小栈](https://leetcode-cn.com/problems/min-stack)                                  |      |    ❎    |
+| 739  | 中等 | [每日温度](https://leetcode-cn.com/problems/daily-temperatures)                       |      |    ❎    |
+| 394  | 中等 | [字符串解码](https://leetcode-cn.com/problems/decode-string)                          |      |    ❎    |
+| 42   | 困难 | [接雨水](https://leetcode-cn.com/problems/trapping-rain-water)                        |      |    ❎    |
+| 84   | 困难 | [最大矩形](https://leetcode-cn.com/problems/maximal-rectangle)                        |      |    ❎    |
+| 85   | 困难 | [柱状图中最大的矩形](https://leetcode-cn.com/problems/largest-rectangle-in-histogram) |      |    ❎    |
+
+
+
+> **队列 - Queue**
+
+
+
+> **二叉树**
+
+
+
+
+
 ### 剑指Offer题解（Java版）
 
 ## 框架
