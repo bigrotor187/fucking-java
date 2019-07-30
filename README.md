@@ -11,12 +11,8 @@
 > Tip/Techni：学习至少一个技术技巧；<br>
 > Share：分享一篇有观点和思考的技术文章。<br>
 
+- [ARTS 系列](https://github.com/bigrotor187/awesome-java-notes/blob/master/arts/README.md)
 
-- [ARTS 第一周](https://github.com/bigrotor187/Awesome-Java-Notes/blob/master/arts/ARTS%E7%AC%AC%E4%B8%80%E5%91%A8.md)
-- [ARTS 第二周](https://github.com/bigrotor187/Awesome-Java-Notes/blob/master/arts/ARTS%E7%AC%AC%E4%BA%8C%E5%91%A8.md)
-- [ARTS 第三周](https://github.com/bigrotor187/Awesome-Java-Notes/blob/master/arts/ARTS%E7%AC%AC%E4%B8%89%E5%91%A8.md)
-- [ARTS 第四周](https://github.com/bigrotor187/Awesome-Java-Notes/blob/master/arts/ARTS%E7%AC%AC%E5%9B%9B%E5%91%A8.md)
-- [ARTS 第五周](https://github.com/bigrotor187/Awesome-Java-Notes/blob/master/arts/ARTS%E7%AC%AC%E4%BA%94%E5%91%A8.md)
 
 ## 趣谈Java系列
 
@@ -60,8 +56,8 @@
 | **数组-Array**         |      |                                                                                                                              |                                                                                                                                                                                       |          |
 | ----                   | ---- | ------------------------------------------------------------                                                                 | ------------------------------------------------------------                                                                                                                          | -------- |
 | 题号                   | 难度 | 题目链接                                                                                                                     | 答案链接                                                                                                                                                                              | 是否完成 |
-| 11                     | 中等 | [盛最多水的容器](https://leetcode-cn.com/problems/container-with-most-water/)                                                |                           | ❎       |
-| 26                     | 简单 | [删除排序数组中重复项](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array/)                                |        | ❎       |
+| 11                     | 中等 | [盛最多水的容器](https://leetcode-cn.com/problems/container-with-most-water/)                                                |  [ContainerWithMostWater](https://github.com/bigrotor187/awesome-java-notes/blob/master/algo/Algorithm/leetcode/src/frequency/array/meduim/_11_ContainerWithMostWater.java)                         | ✅       |
+| 26                     | 简单 | [删除排序数组中重复项](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array/)                                | [RemoveDuplicatesfromSortedArray](https://github.com/bigrotor187/awesome-java-notes/blob/master/algo/Algorithm/leetcode/src/frequency/array/easy/_26_RemoveDuplicatesfromSortedArray.java)       | ✅       |
 | 66                     | 简单 | [加一](https://leetcode-cn.com/problems/plus-one/)                                                                           |                                                           | ❎       |
 | 70                     | 简单 | [爬楼梯](https://leetcode-cn.com/problems/climbing-stairs/)                                                                  |                                             | ❎       |
 | 88                     | 简单 | [合并两个有序数组](https://leetcode-cn.com/problems/merge-sorted-array/)                                                     |                                        | ❎       |
