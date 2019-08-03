@@ -1,10 +1,20 @@
+## 写在前面
+
+码字不易，如果觉得有帮助，请点个 `star` 吧。这个项目是我基本放弃了工作之后所有的娱乐活动来完成的，基本上将所有的精力都用来疯狂看书和刷题了，所以这些基本都是一边看书一边刷题一边挤时间来不断完善的。毕竟这也算是我的第一个开源项目，所以我很重视，希望将更多的精力放在这上面，如果能给大家带来哪怕那么一丁点帮助我觉得就值得了。
+
+这个项目主要是 Java 学习笔记，内容包括 JVM、框架、趣谈 Java 系列、剑指offer题解、leetcode 题解、设计模式等。
+
+目前只更新了部分内容 ，我会一到两天更新一次，目前在更新。现阶段主要将精力放在数据结构与算法上面，所以目前主要在更 `leetcode题解`和`剑指offer题解`部分。
+
+如果觉得可以，请点个 star 关注哦，谢谢各位小哥哥、小姐姐。
+
+**邀请各位老哥和小姐姐们来一起完成这个repo**
+
 | 📊                                                           | ☕️                                                                   | ✏️                                                                               | 🚏                                                           | 🏖                                                                   | 🌁                                                                   | 📮                                                               | 🔍                                                                | 🔧                                                           | 💡                                                                 |
 |----------------------------------------------------------------|------------------------------------------------------------------------|------------------------------------------------------------------------------------|----------------------------------------------------------------|------------------------------------------------------------------------|------------------------------------------------------------------------|--------------------------------------------------------------------|--------------------------------------------------------------------|------------------------------------------------------------------------|----------------------------------------------------------------|
 | [ARTS](https://github.com/bigrotor187/Awesome-Java-Notes#ARTS) | [趣谈Java](https://github.com/bigrotor187/Awesome-Java-Notes#趣谈Java系列) | [数据结构与算法](https://github.com/bigrotor187/Awesome-Java-Notes#数据结构与算法) | [框架](https://github.com/bigrotor187/Awesome-Java-Notes#框架) | [设计模式](https://github.com/bigrotor187/Awesome-Java-Notes#设计模式) | [面试相关](https://github.com/bigrotor187/Awesome-Java-Notes#面试相关) | [数据库](https://github.com/bigrotor187/Awesome-Java-Notes#数据库) | [书籍](https://github.com/bigrotor187/Awesome-Java-Notes#经典书籍) |[工具](https://github.com/bigrotor187/Awesome-Java-Notes#工具) | [联系作者](https://github.com/bigrotor187/Awesome-Java-Notes#联系我) |
 
-
 ## ARTS
-### ARTS是什么？
 
 > Algorithm：每周至少做一个leetcode的算法题；<br>
 > Review：阅读并点评至少一篇英文技术文章；<br>
@@ -33,13 +43,15 @@
 
 说了这么多，还有各种理由抬杠，不愿意花费精力学习数据和算法的人，那也没办法，没啥好说的，懂的自然懂。
 
+> 在这里我会将学习的每个数据结构和算法的理论基础的总结以及代码放在**理论基础**目录下面，而刷的 leetcode 的题目我也会将详细的解题思路和时间复杂度、空间复杂度写出来，具体可以点开每道题对应的答案链接查看。
+
 ### 理论基础
 
-| **[复杂度分析](https://github.com/bigrotor187/awesome-java-notes/blob/master/algo/复杂度分析.md)** | **[数组](https://github.com/bigrotor187/awesome-java-notes/blob/master/algo/%E6%95%B0%E7%BB%84.md)** | **链表** |    **栈**    |    **队列**   |         **跳表**        |        **散列表**        | **二叉树** |
+| **[复杂度分析](https://github.com/bigrotor187/awesome-java-notes/blob/master/algo/%E7%90%86%E8%AE%BA%E5%9F%BA%E7%A1%80/%E5%A4%8D%E6%9D%82%E5%BA%A6%E5%88%86%E6%9E%90/%E5%A4%8D%E6%9D%82%E5%BA%A6%E5%88%86%E6%9E%90.md)** | **[数组](https://github.com/bigrotor187/awesome-java-notes/tree/master/algo/%E7%90%86%E8%AE%BA%E5%9F%BA%E7%A1%80/%E6%95%B0%E7%BB%84)** | **链表** |    **栈**    |    **队列**   |         **跳表**        |        **散列表**        | **二叉树** |
 |:--------------:|:--------:|:--------:|:------------:|:-------------:|:-----------------------:|:------------------------:|:----------:|
 |     ⭐⭐⭐     | ️⭐⭐⭐ |  ⭐⭐⭐  |      ⭐      |      ️⭐     |            ⭐           |          ️⭐⭐          |  ️⭐⭐⭐  |
 |                |          |          |              |               |                         |                          |            |
-|    **贪心**    | **分治** | **回溯** | **动态规划** |    **递归**   |       **二分查找**      |         **[排序](https://github.com/bigrotor187/awesome-java-notes/blob/master/algo/%E6%8E%92%E5%BA%8F.md)**         |   **图**   |
+|    **贪心**    | **分治** | **回溯** | **动态规划** |    **递归**   |       **二分查找**      |         **[排序](https://github.com/bigrotor187/awesome-java-notes/tree/master/algo/%E7%90%86%E8%AE%BA%E5%9F%BA%E7%A1%80/%E6%8E%92%E5%BA%8F)**         |   **图**   |
 |    ️⭐⭐⭐    |  ⭐⭐⭐  |  ⭐⭐⭐  |   ️⭐⭐⭐   |    ️⭐⭐⭐   |           ⭐⭐          |           ⭐⭐           |   ⭐⭐⭐   |
 
 
@@ -59,10 +71,10 @@
 | 11                     | 中等 | [盛最多水的容器](https://leetcode-cn.com/problems/container-with-most-water/)                                                |  [ContainerWithMostWater](https://github.com/bigrotor187/awesome-java-notes/blob/master/algo/Algorithm/leetcode/src/frequency/array/meduim/_11_ContainerWithMostWater.java)                         | ✅       |
 | 26                     | 简单 | [删除排序数组中重复项](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array/)                                | [RemoveDuplicatesfromSortedArray](https://github.com/bigrotor187/awesome-java-notes/blob/master/algo/Algorithm/leetcode/src/frequency/array/easy/_26_RemoveDuplicatesfromSortedArray.java)       | ✅       |
 | 66                     | 简单 | [加一](https://leetcode-cn.com/problems/plus-one/)                                                                           | [PlusOne](https://github.com/bigrotor187/awesome-java-notes/blob/master/algo/Algorithm/leetcode/src/frequency/array/easy/_66_PlusOne.java) | ✅       |
-| 70                     | 简单 | [爬楼梯](https://leetcode-cn.com/problems/climbing-stairs/)                                                                  |                                             | ❎       |
+| 70                     | 简单 | [爬楼梯](https://leetcode-cn.com/problems/climbing-stairs/)                                                                  | [ClimbingStairs](https://github.com/bigrotor187/awesome-java-notes/blob/master/algo/Algorithm/leetcode/src/frequency/array/easy/_70_ClimbingStairs.java) | ✅       |
 | 88                     | 简单 | [合并两个有序数组](https://leetcode-cn.com/problems/merge-sorted-array/)                                                     | [MergeSortedArray](https://github.com/bigrotor187/awesome-java-notes/blob/master/algo/Algorithm/leetcode/src/frequency/array/easy/_88_MergeSortedArray.java) | ✅       |
 | 189                    | 简单 | [旋转数组](https://leetcode-cn.com/problems/rotate-array/)                                                                   | [RotateArray](https://github.com/bigrotor187/awesome-java-notes/blob/master/algo/Algorithm/leetcode/src/frequency/array/easy/_189_RotateArray.java) | ✅       |
-| 283                    | 简单 | [移动零](https://leetcode-cn.com/problems/move-zeroes/)                                                                      |                                                    | ❎       |
+| 283                    | 简单 | [移动零](https://leetcode-cn.com/problems/move-zeroes/)                                                                      | [MoveZeroes](https://github.com/bigrotor187/awesome-java-notes/blob/master/algo/Algorithm/leetcode/src/frequency/array/easy/_283_MoveZeroes.java) | ✅       |
 | **链表-LinkedList**    |      |                                                                                                                              |                                                                                                                                                                                       |          |
 | 题号                   | 难度 | 题目链接                                                                                                                     | 答案链接                                                                                                                                                                              | 是否完成 |
 | 21                     | 简单 | [合并两个有序链表](https://leetcode-cn.com/problems/merge-two-sorted-lists/)                                                 |                                 | ❎       |
@@ -75,7 +87,7 @@
 | 题号                   | 难度 | 题目链接                                                                                                                     | 答案链接                                                                                                                                                                              | 是否完成 |
 | 1                      | 简单 | [两数之和](https://leetcode-cn.com/problems/two-sum/)                                                                        | [TwoSum](https://github.com/bigrotor187/awesome-java-notes/blob/master/algo/Algorithm/leetcode/src/frequency/array/easy/_1_TwoSum.java)| ✅       |
 | 167                      | 简单 | [两数之和 II - 输入有序数组](https://leetcode-cn.com/problems/two-sum-ii-input-array-is-sorted/)| [TwoSumII](https://github.com/bigrotor187/awesome-java-notes/blob/master/algo/Algorithm/leetcode/src/frequency/array/easy/_167_TwoSumII.java) | ✅ |
-| 15                     | 中等 | [三数之和](https://leetcode-cn.com/problems/3sum/)                                                                           |                                                         | ❎       |
+| 15                     | 中等 | [三数之和](https://leetcode-cn.com/problems/3sum/)                                                                           | [ThreeSum](https://github.com/bigrotor187/awesome-java-notes/blob/master/algo/Algorithm/leetcode/src/frequency/array/meduim/_15_ThreeSum.java)  | ✅       |
 | 20                     | 简单 | [有效的括号](https://leetcode-cn.com/problems/valid-parentheses/description/)                                                |                                          | ❎       |
 | 42                     | 困难 | [接雨水](https://leetcode-cn.com/problems/trapping-rain-water/)                                                              |                                      | ❎       |
 | 49                     | 中等 | [字母异位词分组](https://leetcode-cn.com/problems/group-anagrams/)                                                           |                                               | ❎       |
@@ -196,6 +208,17 @@
 
 ## 经典书籍
 
+- [全网最全的编程学习资源，PDF 电子书大合集](https://mp.weixin.qq.com/s?__biz=MzU3NDkzNzczNQ==&mid=2247483749&idx=1&sn=0c5807142dc21542237044f9944bac79&chksm=fd2b8e8dca5c079ba5fede4c26e14e824431d254505e0813fe5e56996a2eed9d949c4d61cf42&token=1976685216&lang=zh_CN#rd)
+
 ## 工具
 
+- [全网最骚的idea快捷键电脑桌面壁纸，这一张就够了](https://mp.weixin.qq.com/s?__biz=MzU3NDkzNzczNQ==&mid=2247483895&idx=1&sn=9e6ae48f6396d74fc230e778f40806cd&chksm=fd2b8e1fca5c0709941a8317a7f128d05ce8fcaae9dcbd6fb4d2ca85674c9105c955e6eba1b3&token=1976685216&lang=zh_CN#rd)
+- [idea中文教程](https://youmeek.gitbooks.io/intellij-idea-tutorial/content/)
+
 ## 联系我
+
+如果有疑问或者有什么好的想法和建议想要和我交流，或者就单纯的想交个朋友，可以添加我微信，备注 github
+
+<br>
+
+![img](https://github.com/bigrotor187/awesome-java-notes/blob/master/imgs/%E5%BE%AE%E4%BF%A1-helloword.jpg)
