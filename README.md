@@ -10,9 +10,9 @@
 
 **邀请各位老哥和小姐姐们来一起完成这个repo**
 
-| 📊                                                           | ☕️                                                                   | ✏️                                                                               | 🚏                                                           | 🏖                                                                   | 🌁                                                                   | 📮                                                               | 🔍                                                                | 🔧                                                           | 💡                                                                 |
-|----------------------------------------------------------------|------------------------------------------------------------------------|------------------------------------------------------------------------------------|----------------------------------------------------------------|------------------------------------------------------------------------|------------------------------------------------------------------------|--------------------------------------------------------------------|--------------------------------------------------------------------|------------------------------------------------------------------------|----------------------------------------------------------------|
-| [ARTS](https://github.com/bigrotor187/Awesome-Java-Notes#ARTS) | [趣谈Java](https://github.com/bigrotor187/Awesome-Java-Notes#趣谈Java系列) | [数据结构与算法](https://github.com/bigrotor187/Awesome-Java-Notes#数据结构与算法) | [框架](https://github.com/bigrotor187/Awesome-Java-Notes#框架) | [设计模式](https://github.com/bigrotor187/Awesome-Java-Notes#设计模式) | [面试相关](https://github.com/bigrotor187/Awesome-Java-Notes#面试相关) | [数据库](https://github.com/bigrotor187/Awesome-Java-Notes#数据库) | [书籍](https://github.com/bigrotor187/Awesome-Java-Notes#经典书籍) |[工具](https://github.com/bigrotor187/Awesome-Java-Notes#工具) | [联系作者](https://github.com/bigrotor187/Awesome-Java-Notes#联系我) |
+| 📊                                                           | ☕️                                                                   | ✏️                                                                               | 🚏                                                         |   🔍                                                                | 🔧                                                           |                                                           
+|----------------------------------------------------------------|------------------------------------------------------------------------|------------------------------------------------------------------------|--------------------------------------------------------------------|--------------------------------------------------------------------|------------------------------------------------------------------------|
+| [ARTS](https://github.com/bigrotor187/Awesome-Java-Notes#ARTS) | [趣谈Java](https://github.com/bigrotor187/Awesome-Java-Notes#趣谈Java系列) | [数据结构与算法](https://github.com/bigrotor187/Awesome-Java-Notes#数据结构与算法) | [框架](https://github.com/bigrotor187/Awesome-Java-Notes#框架) | [书籍](https://github.com/bigrotor187/Awesome-Java-Notes#经典书籍) |[工具](https://github.com/bigrotor187/Awesome-Java-Notes#工具) |
 
 ## ARTS
 
@@ -47,7 +47,7 @@
 
 ### 理论基础
 
-| **[复杂度分析](https://github.com/bigrotor187/awesome-java-notes/blob/master/algo/%E7%90%86%E8%AE%BA%E5%9F%BA%E7%A1%80/%E5%A4%8D%E6%9D%82%E5%BA%A6%E5%88%86%E6%9E%90/%E5%A4%8D%E6%9D%82%E5%BA%A6%E5%88%86%E6%9E%90.md)** | **[数组](https://github.com/bigrotor187/awesome-java-notes/tree/master/algo/%E7%90%86%E8%AE%BA%E5%9F%BA%E7%A1%80/%E6%95%B0%E7%BB%84)** | **[链表](https://github.com/bigrotor187/awesome-java-notes/blob/master/algo/%E7%90%86%E8%AE%BA%E5%9F%BA%E7%A1%80/%E9%93%BE%E8%A1%A8/%E9%93%BE%E8%A1%A8.md)** |    **[栈](https://github.com/bigrotor187/awesome-java-notes/blob/master/algo/%E7%90%86%E8%AE%BA%E5%9F%BA%E7%A1%80/%E9%93%BE%E8%A1%A8/%E9%93%BE%E8%A1%A8.md)**    |    **[队列](https://github.com/bigrotor187/awesome-java-notes/blob/master/algo/%E7%90%86%E8%AE%BA%E5%9F%BA%E7%A1%80/%E9%98%9F%E5%88%97/%E9%98%9F%E5%88%97.md)**   |         **跳表**        |        **散列表**        | **二叉树** |
+| **[复杂度分析](https://github.com/bigrotor187/awesome-java-notes/blob/master/algo/%E7%90%86%E8%AE%BA%E5%9F%BA%E7%A1%80/%E5%A4%8D%E6%9D%82%E5%BA%A6%E5%88%86%E6%9E%90/%E5%A4%8D%E6%9D%82%E5%BA%A6%E5%88%86%E6%9E%90.md)** | **[数组](https://github.com/bigrotor187/awesome-java-notes/tree/master/algo/%E7%90%86%E8%AE%BA%E5%9F%BA%E7%A1%80/%E6%95%B0%E7%BB%84)** | **[链表](https://github.com/bigrotor187/awesome-java-notes/blob/master/algo/%E7%90%86%E8%AE%BA%E5%9F%BA%E7%A1%80/%E9%93%BE%E8%A1%A8/%E9%93%BE%E8%A1%A8.md)** |    **[栈](https://github.com/bigrotor187/awesome-java-notes/blob/master/algo/%E7%90%86%E8%AE%BA%E5%9F%BA%E7%A1%80/%E9%93%BE%E8%A1%A8/%E9%93%BE%E8%A1%A8.md)**    |    **[队列](https://github.com/bigrotor187/awesome-java-notes/tree/master/algo/%E7%90%86%E8%AE%BA%E5%9F%BA%E7%A1%80/%E9%98%9F%E5%88%97)**   |         **跳表**        |        **散列表**        | **二叉树** |
 |:--------------:|:--------:|:--------:|:------------:|:-------------:|:-----------------------:|:------------------------:|:----------:|
 |     ⭐⭐⭐     | ️⭐⭐⭐ |  ⭐⭐⭐  |      ⭐      |      ️⭐     |            ⭐           |          ️⭐⭐          |  ️⭐⭐⭐  |
 |                |          |          |              |               |                         |                          |            |
@@ -200,11 +200,6 @@
 
 ## 框架
 
-## 设计模式
-
-## 面试相关
-
-## 数据库
 
 ## 经典书籍
 
@@ -214,11 +209,3 @@
 
 - [全网最骚的idea快捷键电脑桌面壁纸，这一张就够了](https://mp.weixin.qq.com/s?__biz=MzU3NDkzNzczNQ==&mid=2247483895&idx=1&sn=9e6ae48f6396d74fc230e778f40806cd&chksm=fd2b8e1fca5c0709941a8317a7f128d05ce8fcaae9dcbd6fb4d2ca85674c9105c955e6eba1b3&token=1976685216&lang=zh_CN#rd)
 - [idea中文教程](https://youmeek.gitbooks.io/intellij-idea-tutorial/content/)
-
-## 联系我
-
-如果有疑问或者有什么好的想法和建议想要和我交流，或者就单纯的想交个朋友，可以添加我微信，备注 github
-
-<br>
-
-![img](https://github.com/bigrotor187/awesome-java-notes/blob/master/imgs/%E5%BE%AE%E4%BF%A1-helloword.jpg)
