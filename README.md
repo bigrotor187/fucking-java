@@ -28,8 +28,6 @@
 - [趣谈Java之——与对象的初次约会](https://github.com/bigrotor187/Awesome-Java-Notes/blob/master/Java/%E8%B6%A3%E8%B0%88Java%E4%B9%8B%E2%80%94%E2%80%94%E4%B8%8E%E5%AF%B9%E8%B1%A1%E7%9A%84%E5%88%9D%E6%AC%A1%E7%BA%A6%E4%BC%9A.md)
 - [趣谈Java之——UML中类（对象）之间的几种关系](https://github.com/bigrotor187/Awesome-Java-Notes/blob/master/Java/%E8%B6%A3%E8%B0%88Java%E4%B9%8B%20%E2%80%94%E2%80%94UML%E4%B8%AD%E7%B1%BB%EF%BC%88%E5%AF%B9%E8%B1%A1%EF%BC%89%E4%B9%8B%E9%97%B4%E7%9A%84%E5%87%A0%E7%A7%8D%E5%85%B3%E7%B3%BB.md)
 - [趣谈Java之——三分钟搞懂基础语法](https://github.com/bigrotor187/awesome-java-notes/blob/master/Java/%E8%B6%A3%E8%B0%88Java%E4%B9%8B%E2%80%94%E2%80%94%E4%B8%89%E5%88%86%E9%92%9F%E6%90%9E%E6%87%82%E5%9F%BA%E7%A1%80%E8%AF%AD%E6%B3%95.md)
-- [Spring AOP 历险记（一）](https://blog.csdn.net/Big_Rotor/article/details/88772371)
-- [Spring AOP 历险记（二）之动态代理初探](https://blog.csdn.net/Big_Rotor/article/details/88933350)
 
 ## 数据结构与算法
 
@@ -201,6 +199,10 @@
 
 ## 框架
 
+### Spring
+
+- [Spring AOP 历险记（一）](https://blog.csdn.net/Big_Rotor/article/details/88772371)
+- [Spring AOP 历险记（二）之动态代理初探](https://blog.csdn.net/Big_Rotor/article/details/88933350)
 
 ## 经典书籍
 
