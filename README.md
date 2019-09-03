@@ -30,6 +30,8 @@
 - [趣谈Java之——三分钟搞懂基础语法](https://github.com/bigrotor187/awesome-java-notes/blob/master/Java/%E8%B6%A3%E8%B0%88Java%E4%B9%8B%E2%80%94%E2%80%94%E4%B8%89%E5%88%86%E9%92%9F%E6%90%9E%E6%87%82%E5%9F%BA%E7%A1%80%E8%AF%AD%E6%B3%95.md)
 - [趣谈Java之——Java便利贴之泛型](https://blog.csdn.net/Big_Rotor/article/details/82951873)
 - [趣谈Java之——深入理解Java的三大特性之多态](https://blog.csdn.net/Big_Rotor/article/details/83997292)
+- [趣谈Java之——优雅性感之 JSON 小姐姐](https://blog.csdn.net/Big_Rotor/article/details/83154861)
+- [趣谈Java之——抽象类和接口的异同、区别](https://blog.csdn.net/Big_Rotor/article/details/78250284)
 
 ## 数据结构与算法
 
