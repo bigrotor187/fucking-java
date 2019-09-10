@@ -203,6 +203,8 @@
 
 ## 框架
 
+- **有关框架的面试题部分，放在了另一个专门整理和总结面试题的仓库：https://github.com/bigrotor187/awesome-java-interview**
+
 ### Spring
 
 - [Spring AOP 历险记（一）](https://blog.csdn.net/Big_Rotor/article/details/88772371)
