@@ -202,6 +202,8 @@
 
 
 ### 剑指Offer题解（Java版）
+- [剑指offer题解（Java实现）—— 面试题2：实现Singleton模式](https://blog.csdn.net/Big_Rotor/article/details/101686855)
+- [剑指offer题解（Java实现）—— 面试题3：数组中重复的数字](https://blog.csdn.net/Big_Rotor/article/details/101687080)
 
 ## 框架
 
