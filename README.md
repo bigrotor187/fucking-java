@@ -204,6 +204,10 @@
 ### 剑指Offer题解（Java版）
 - [剑指offer题解（Java实现）—— 面试题2：实现Singleton模式](https://blog.csdn.net/Big_Rotor/article/details/101686855)
 - [剑指offer题解（Java实现）—— 面试题3：数组中重复的数字](https://blog.csdn.net/Big_Rotor/article/details/101687080)
+- [剑指offer题解（Java实现）—— 面试题4：二维数组中的查找](https://blog.csdn.net/Big_Rotor/article/details/101687139)
+- [剑指offer题解（Java实现）—— 面试题5：替换空格](https://blog.csdn.net/Big_Rotor/article/details/101687166)
+- [剑指offer题解（Java实现）—— 面试题6：从头到尾打印链表](https://blog.csdn.net/Big_Rotor/article/details/101687206)
+- [剑指offer题解（Java实现）—— 面试题7：重建二叉树](https://blog.csdn.net/Big_Rotor/article/details/101687267)
 
 ## 框架
 
