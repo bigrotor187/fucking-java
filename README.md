@@ -35,6 +35,8 @@
 
 ## JVM
 
+- [JVM 知识点串一串](https://github.com/bigrotor187/awesome-java-notes/tree/master/jvm)
+
 ## 数据结构与算法
 
 关于数据结构和算法，肯定有不少人会觉得反正工作中用不到，没必要花费那么大精力来学习。可真是如此吗？难道你真的愿意做一辈子的 CRUD BOY 吗？
